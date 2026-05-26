@@ -1,4 +1,4 @@
-# ticketsys
+# ticketsyst
 **
  ## DESCRIPCION
  CRH para el control de devoliuciones y quejas
@@ -13,3 +13,11 @@
  Lenguaje:
  ide:
  CVS:
+ ## ARQUITECTURA
+ La arquitectura del proyecto sera
+ ##METODOLOGIA
+ La metodologia para el desarrollo de la aplicacaion sera SCRUM, en 4 sprints
+ - [] SPRINT 1
+ - [] SPRINT 2
+ - [] SPRINT 3
+ - [] SPRINT 4
